@@ -16,6 +16,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "feather": "^0.0.6"
+    "feather": "^0.0.5"
   }
 }
