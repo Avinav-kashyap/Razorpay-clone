@@ -8,6 +8,7 @@
     "start": "vite"
   },
   "devDependencies": {
+    "@types/node": "^20.10.6",
     "autoprefixer": "10.4.15",
     "postcss": "8.4.28",
     "tailwindcss": "3.3.3",
